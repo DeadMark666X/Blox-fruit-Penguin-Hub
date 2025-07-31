@@ -1,5 +1,3 @@
-
-
 	repeat wait() until game:IsLoaded()
 	repeat wait() until game:GetService("Players")
 	repeat wait() until game:GetService("Players").LocalPlayer
